@@ -2,5 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo " the addition of the two number is $NUMBER"
-echo "THIS is the final numner sum"
+echo "THIS is the final addition sum"
 echo "$NUMBER"
